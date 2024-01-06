@@ -16,6 +16,8 @@ export default function Home() {
       <h1>Hello 👋</h1>
       <p>
         We're so glad you're here :)
+        <br /><br />
+        What do you want to do next?
       </p>
     </main>
   )
